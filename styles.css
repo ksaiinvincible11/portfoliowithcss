@@ -1,0 +1,257 @@
+div {
+  background-color: #ECFCFF;
+  margin-top: 0px;
+
+}
+body{
+  margin: 0px;
+}
+h1{
+  margin-block-start:0px;
+  margin-block-end: 0px;
+  margin: 0 auto 0 auto;
+  font-family: 'WindSong', cursive;
+  color: #00BADC;
+  font-size: 50px;
+  text-align: center;
+}
+.description{
+  text-align: center;
+  color: #00BADC;
+  font-family: 'Merriweather', serif;
+  font-weight: normal;
+}
+.top-cloud{
+  position: relative;
+  top: 70px;
+  left: 820px;
+  width: 180px;
+  padding-top: 0px;
+}
+.bottom-cloud{
+  position: absolute;
+  left: 240px;
+  top: 180px;
+  width: 180px;
+}
+.hill{
+  display: block;
+  margin: 0 auto;
+  width: 800px;
+  height: 300px;
+  margin: 0 auto 0 auto;
+}
+.one{
+  position: absolute;
+  top: 420px;
+  left: 800px;
+  width: 70px;
+
+}
+.two{
+  position: absolute;
+  top: 460px;
+  left: 320px;
+  width: 70px;
+}
+.three{
+  position: absolute;
+  top: 430px;
+  left: 500px;
+  width: 70px;
+}
+.four{
+  position: absolute;
+  top: 390px;
+  right: 440px;
+  width: 70px;
+}
+.five{
+  position: absolute;
+  top: 460px;
+  left: 300px;
+  width: 70px;
+}
+.six{
+  position: absolute;
+  top: 400px;
+  right: 460px;
+  width: 70px;
+}
+.seven{
+  position: absolute;
+  left: 470px;
+  top: 410px;
+  width: 70px;
+}
+.eight{
+  position: absolute;
+  top: 430px;
+  left: 480px;
+  width: 70px;
+}
+.middle-cont{
+  background-color: white;
+  text-align: center;
+  color: #40514E;
+}
+.bottom-cont{
+   background-color: #ECFCFF;
+   text-align: center;
+   margin-top: 50px;
+   margin-bottom: 0px;
+   color: #40514E;
+   padding: 30px 0px 10px;
+   line-height: 40px;
+}
+.linkedin{
+  border-top: 50px;
+  border-bottom: 50px;
+  line-height: 20px;
+  margin-top: 30px;
+  font-weight: bold;
+  margin-top: 30px;
+  color: #00BADC;
+  text-decoration: none;
+  padding-left: 30px;
+}
+.twitter{
+  margin-top: 30px;
+  font-weight: bold;
+  margin-top: 30px;
+  color: #00BADC;
+  text-decoration: none;
+  padding-left: 30px;
+}
+.website{
+  margin-top: 30px;
+  font-weight: bold;
+  margin-top: 30px;
+  color: #00BADC;
+  text-decoration: none;
+  padding-left: 30px;
+}
+a:hover{
+  color: #878787;
+}
+.profile{
+  background-color: white;
+}
+.skills{
+  background-color: white;
+}
+.skill-row{
+  background-color: white;
+}
+.contact-me{
+  background-color: white;
+}
+h2{
+  color: #00BADC;
+  font-family: 'Merriweather', serif;
+}
+h3{
+  color: #00BADC;
+  font-family: 'Merriweather', serif;
+}
+hr{
+  width: 5%;
+  border-top-style:  dotted;
+  border-bottom-style: none;
+  border-left-style: none;
+  border-right-style: none;
+  border-width: thick;
+  border-color: grey;
+  margin-top: 40px;
+  margin-bottom: 40px;
+}
+
+p{
+  text-align: center;
+  width: 40%;
+  margin: 10px auto 10px auto;
+}
+
+.btn {
+  background: #3498db;
+  background-image: -webkit-linear-gradient(top, #3498db, #2980b9);
+  background-image: -moz-linear-gradient(top, #3498db, #2980b9);
+  background-image: -ms-linear-gradient(top, #3498db, #2980b9);
+  background-image: -o-linear-gradient(top, #3498db, #2980b9);
+  background-image: linear-gradient(to bottom, #3498db, #2980b9);
+  -webkit-border-radius: 11;
+  -moz-border-radius: 11;
+  border-radius: 11px;
+  font-family: Georgia;
+  color: #ffffff;
+  font-size: 16px;
+  padding: 11px 19px 11px 19px;
+  text-decoration: none;
+}
+
+.btn:hover {
+  background: #07cbed;
+  background-image: -webkit-linear-gradient(top, #07cbed, #67e0f5);
+  background-image: -moz-linear-gradient(top, #07cbed, #67e0f5);
+  background-image: -ms-linear-gradient(top, #07cbed, #67e0f5);
+  background-image: -o-linear-gradient(top, #07cbed, #67e0f5);
+  background-image: linear-gradient(to bottom, #07cbed, #67e0f5);
+  text-decoration: none;
+}
+
+.above-btn{
+  margin-bottom: 50px;
+}
+.social-media{
+  color: grey;
+  margin-bottom: 0px;
+  font-size: 0.75rem;
+}
+.nav-bar{
+  background-color: #00BADC;
+  position: fixed;
+  display: block;
+  width: 100%;
+  padding: 5px;
+
+}
+.Nav-description{
+  font-family: 'WindSong', cursive;
+  text-align: left;
+  margin-right: 90%;
+  margin-top: 0px;
+  margin-bottom: 0px;
+  color: #ECFCFF;
+}
+.Home{
+  padding-top: 0px;
+  margin-top: 0px;
+  color: #ECFCFF;
+  text-align: left;
+  text-decoration: none;
+  padding-right: 30px;
+  margin-left: 75%;
+}
+.Blog{
+  padding-top: 0px;
+  margin-top: 0px;
+  color: #ECFCFF;
+  align-self: flex-end;
+  text-decoration: none;
+  padding-right: 30px;
+}
+.About-Us{
+  padding-top: 0px;
+  margin-top: 0px;
+  color: #ECFCFF;
+  text-align: left;
+  text-decoration: none;
+}
+ul{
+  list-style-type: none;
+  margin: 0px;
+  padding: 0px;
+}
+li{
+  display: inline;
+}
